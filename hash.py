@@ -23,6 +23,7 @@ print(colored('''
 =============================================================
 ''', 'green', 'on_red'))
 webbrowser.open("https://www.youtube.com/channel/UChgCgpoarzvdEEeitoa_cZw")
+os.system("xdg-open https://t.me/VENOM_ITx")
 hash =input("Type a name to create your word series: ")
 time.sleep(3.0)
 print(">>>>>>>>>>")
