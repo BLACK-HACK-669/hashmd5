@@ -9,6 +9,7 @@ cd hashmd5
 python3 hash.py
 
 Termux
+
 pkg install python3 
 
 pip install termcolor
